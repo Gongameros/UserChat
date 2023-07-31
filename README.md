@@ -1,6 +1,6 @@
 # UserChat
-The chat app with login and registration forms created with C++ and SQL
-The login and registration forms serve as the gateway for users to access the app's features
+The chat app with login and registration forms created with C++ and SQL.
+The login and registration forms serve as the gateway for users to access the app's features.
 
 A notable aspect of this project is that all executables were built by me.
 ***To start the app you need to connect database form.***
