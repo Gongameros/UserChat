@@ -1,0 +1,10 @@
+release/chat.o
+release/loginForm.o
+release/main.o
+release/registerform.o
+release/sqlConnection.o
+release/qrc_BackgroundResource.o
+release/qrc_Icon.o
+release/moc_chat.o
+release/moc_loginForm.o
+release/moc_registerform.o
