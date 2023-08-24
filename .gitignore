@@ -1,2 +1,4 @@
-release/
-debug/
+chatClient/release/
+chatClient/debug/
+chatServer/release/
+chatServer/debug/
